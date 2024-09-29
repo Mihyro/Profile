@@ -12,7 +12,7 @@
         <header>
             <div class="header-content">
                 <div class="profile-image">
-                    <img src="profile.jpg" alt="Profile Picture ">
+                    <img src="avatar.jpg" alt="Profile Picture ">
                 </div>
                 <div class="header-text">
                     <h1>Nguyễn Châu Toàn Hữu Phúc</h1>
