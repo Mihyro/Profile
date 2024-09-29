@@ -10,9 +10,9 @@
         <td width="50%">
           <img width="250" src="./avatar.jpg" border="0">
          </td>
-      <span>Cu Chi, Ho Chi Minh, Viet Nam</span>
     </div>
     <div class="content__description">
+      <p>Cu Chi, Ho Chi Minh, Viet Nam</p>
       <p>Data Analyst - BA</p>
       <p>SAI GON University - Ho Chi Minh</p>
     </div>
