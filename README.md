@@ -35,7 +35,7 @@ I am a fourth-year student at Saigon University, majoring in Information Systems
             </p>
         </section>
         <section class="experience">
-            <h2>Kinh Nghiệm</h2>
+            <h2>Experience</h2>
 
             <div class="job">
                 <ul>
