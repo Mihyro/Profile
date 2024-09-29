@@ -51,7 +51,6 @@ header {
 .profile-image img {
     width: 150px;
     height: 150px;
-    border-radius: 100%;
     object-fit: cover;
 }
 
@@ -102,15 +101,4 @@ ul {
     color: #7f8c8d;
 }
 
-.skills ul {
-    display: flex;
-    flex-wrap: wrap;
-}
 
-.skills ul li {
-    background-color: #ecf0f1;
-    padding: 5px 10px;
-    margin: 5px;
-    border-radius: 5px;
-    font-size: 0.9em;
-}
