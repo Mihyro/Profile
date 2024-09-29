@@ -6,7 +6,11 @@
       </div>
     </div>
     <div class="content__title">
-      <h1>Samantha Jones</h1><span>Cu Chi, Ho Chi Minh, Viet Nam</span>
+      <h1>NGUYEN HOANG ANH</h1>
+        <td width="50%">
+          <img width="250" src="./mypic4.jpg" border="0">
+         </td>
+      <span>Cu Chi, Ho Chi Minh, Viet Nam</span>
     </div>
     <div class="content__description">
       <p>Data Analyst - BA</p>
