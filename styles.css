@@ -51,9 +51,8 @@ header {
 .profile-image img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 100%;
     object-fit: cover;
-    border: 4px solid #16a085;
 }
 
 .header-text h1 {
@@ -63,7 +62,7 @@ header {
 
 .header-text p {
     font-size: 1.2em;
-    color: #16a085;
+    color: #037eef;
 }
 
 .contact-info {
