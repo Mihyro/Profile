@@ -8,7 +8,7 @@
     <div class="content__title">
       <h1>NGUYEN HOANG ANH</h1>
         <td width="50%">
-          <img width="250" src="./mypic4.jpg" border="0">
+          <img width="250" src="./avatar.jpg" border="0">
          </td>
       <span>Cu Chi, Ho Chi Minh, Viet Nam</span>
     </div>
