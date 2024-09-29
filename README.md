@@ -19,7 +19,7 @@
                     <p>S.ID: 3121410053</p>
                     <p>Class: DCT 1212</p>
                     <div class="contact-info">
-                        <p>Location: Cu Chi - Ho Chi Minh City, Việt Nam</p>
+                        <p>Location: Cu Chi - Ho Chi Minh City, Viet Nam</p>
                         <p>  
                             <a href="https://ayashion.github.io/Web1/" target="_blank">Current project</a>
                         </p>
