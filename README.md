@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Nguyễn Châu Toàn Hữu Phúc - CV</title>
+    <title>NGUYEN HOANG ANH</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -34,7 +34,6 @@
 I am a fourth-year student at Saigon University, majoring in Information Systems. I have extensive experience in translation, game modding, and drawing. I have participated in many community game and game modding projects. I am not a pure developer and do not have much coding experience
             </p>
         </section>
-
         <section class="experience">
             <h2>Kinh Nghiệm</h2>
 
